@@ -1,2 +1,2 @@
-module AdminsBackoffice::SubjectHelper
+module AdminsBackoffice::SubjectsHelper
 end
